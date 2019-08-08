@@ -9,7 +9,7 @@ print("My First Executable Code here. Thank You!! ")
 ''' This is Python Comment -- 
         interpertor ignores this 
 '''
-
+thisIsTest = "Checking Github"
 # this is single line comment
 
 myFirstVar = 100
