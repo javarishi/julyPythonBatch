@@ -1,0 +1,51 @@
+Creating Variables
+	- declare
+	- reassign
+	- print
+Python Numbers
+	- int
+	- float
+	- complex
+	- type() function
+Specify a Variable Type (casting)
+	- int()
+	- float()
+	- str()
+String Literals
+	- print(a[1])
+	- print(b[2:5])
+	- print(a.strip())
+	- print(len(a))
+	- print(a.lower())
+	- print(a.upper())
+	- print(a.replace("H", "J"))
+	- print(a.split(","))
+Command-line String Input
+	- x = input()
+
+----------------- Day 2 ------------
+Operators
+
+Arithmetic operators
+Assignment Operators
+Python Comparison Operators
+	- ==, !=, >, < , >=, <=
+Python Logical Operators
+	- and, or, not
+Python Controls:
+	if b > a:
+  		print("b is greater than a")
+elif 
+	if b > a:
+  		print("b is greater than a")
+	elif a == b:
+  		print("a and b are equal")
+
+List
+	- ordered 
+	- changeable
+	- square brackets.
+List Operations
+	- print(thislist[1])
+	- Change Item Value
+
